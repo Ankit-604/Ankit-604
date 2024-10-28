@@ -9,7 +9,7 @@
 
 ---
 
-<h1 align="center"> Hi there, I'm <a href="https://github.com/your-github-username">Ankit Kumar Sharma</a> 👋</h1>
+<h1 align="center"> Hi there, I'm <a href="https://github.com/ankit-604">Ankit Kumar Sharma</a> 👋</h1>
 
 <p align="center">
     Aspiring full stack developer with a passion for building modern web applications and learning new technologies.
@@ -63,11 +63,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-604&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-604&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
