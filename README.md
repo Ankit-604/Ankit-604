@@ -101,7 +101,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge" alt="Profile Views" />
-</p>
 
