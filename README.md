@@ -96,7 +96,7 @@
 
 ## ⚡ Fun Fact
 
-💡 "I love debugging as much as I love coding—it’s like solving puzzles!"  
+💡 "I love debugging as much as coding—it’s like solving puzzles!"  
 🎮 When I’m not coding, you’ll find me playing video games or exploring new tech trends.
 
 ---
